@@ -10,7 +10,7 @@
     <version>0.0.0.master</version>
     <modules>
         <module>rosetta-source</module>
-        <module>tests</module>
+        <module>shell</module>
     </modules>
 
     <properties>
