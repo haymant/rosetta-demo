@@ -1,0 +1,6 @@
+namespace net.lizhao.cdm
+version "${project.version}"
+
+
+type Product: <"Financial Derivative Product">
+  prodType ProductTypeEnum (1..1)

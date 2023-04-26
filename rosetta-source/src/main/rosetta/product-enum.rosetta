@@ -1,0 +1,6 @@
+namespace net.lizhao.cdm
+version "${project.version}"
+
+enum ProductTypeEnum: <"Product Types supported by SPE">
+    FCN
+    ELN
