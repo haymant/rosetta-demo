@@ -3,6 +3,8 @@
 ## Build rosetta-source
 
 ```bash
+cd ../resetta-source
+mvn clean install -s ../settings.xml
 ```
 
 ## Shell Usage
@@ -10,7 +12,7 @@
 ### Build the Shell
 
 ```bash
-mvn clean install -Dmaven.test.skip=true
+mvn clean install -s ../settings.xml
 ```
 
 ### Use the Shell

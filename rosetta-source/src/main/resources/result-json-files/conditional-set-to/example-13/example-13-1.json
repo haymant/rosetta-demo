@@ -1,9 +1,0 @@
-{
-  "alternativeFuel" : "Combustion",
-  "engineSpecification" : [ {
-    "engineMetric" : [ {
-      "engineEnum" : "HYBRID"
-    } ]
-  } ],
-  "fuel" : "Hybrid"
-}
