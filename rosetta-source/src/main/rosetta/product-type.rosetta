@@ -3,4 +3,5 @@ version "${project.version}"
 
 
 type Product: <"Financial Derivative Product">
+  name string (1..1)
   prodType ProductTypeEnum (1..1)
